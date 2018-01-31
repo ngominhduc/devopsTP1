@@ -1,0 +1,17 @@
+etape 1:
+creer un depot serveur: https://github.com/ngominhduc/devopsTP1
+
+etape 2:
+git init
+git clone https://github.com/ngominhduc/devopsTP1
+
+etape 3:
+git add AUTHORS
+git commit -m 'premier contribution'
+git remote add origin https://github.com/ngominhduc/test1
+git push -u origin master
+
+
+etape 4:
+
+etape 5:
